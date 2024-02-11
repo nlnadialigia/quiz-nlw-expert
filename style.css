@@ -1,0 +1,19 @@
+:root {
+  --bg-color: #01427b;
+  --blue-color: #6a8fb1;
+  --dark-yellow: #e99910;
+  --light-yellow: #f9c236;
+  --text-color: #fcfbf8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
