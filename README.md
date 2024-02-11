@@ -34,14 +34,6 @@ Criação de um quiz pra testar os seus conhecimentos técnicos e ter um retorno
 
 <br>
 
-## 🚀 Demonstração
-
-<!-- Vídeo
-
-[Link para a página publicada]() -->
-
-<br>
-
 ## 🛠 Tecnologias
 
 - HTML
