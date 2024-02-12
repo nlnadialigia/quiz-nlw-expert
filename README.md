@@ -22,7 +22,7 @@
 
 Criação de um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou, desenvolvido na NLW Expert - Trilha HTML/CSS/Javascript, da [Rocketseat](https://www.rocketseat.com.br/).
 
-![Em construção](https://ik.imagekit.io/l7cwocexhc/crud-flask/em-contrucao.png?updatedAt=1706705289779)
+<!-- ![Em construção](https://ik.imagekit.io/l7cwocexhc/crud-flask/em-contrucao.png?updatedAt=1706705289779) -->
 
 <br>
 
@@ -31,6 +31,16 @@ Criação de um quiz pra testar os seus conhecimentos técnicos e ter um retorno
 ![Interface](https://ik.imagekit.io/l7cwocexhc/Home_QY7JSoxJH.png?updatedAt=1707681224629)
 
 [Protótipo no Figma](https://www.figma.com/file/KT7liaaQwgEGsQ16zpCD5z/NLW-expert-%E2%80%A2-Quiz?type=design&node-id=186%3A114&mode=design&t=DIPiFxZyvGdnlPoS-1)
+
+<br>
+
+## 🚀 Demonstração
+
+<img src="./assets/quiz-video.gif" alt="Picture"/>
+
+<br>
+
+[Link para a página publicada](https://nlnadialigia.github.io/quiz-nlw-expert/)
 
 <br>
 
